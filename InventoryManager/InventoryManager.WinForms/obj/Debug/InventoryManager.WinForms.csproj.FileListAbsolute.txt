@@ -1,0 +1,5 @@
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.MainForm.resources
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CoreCompileInputs.cache

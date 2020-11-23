@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUjtOimh+AEUUB4TX3oOOFojOa3qx6h2xgBgiArGwd9BOzq/ooQYS6hPr7TwYUCScR6ObXXmRu5G9/N2xu7wQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clesk\\Documents\\2020_Fall\\ToolsPlugin_4778C\\WDB\\Windows-Data-Binding\\InventoryManager\\InventoryManager.Data\\InventoryManager.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clesk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\clesk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\clesk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

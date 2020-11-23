@@ -1,0 +1,9 @@
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\clesk\Documents\2020_Fall\ToolsPlugin_4778C\WDB\Windows-Data-Binding\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb
